@@ -1,0 +1,1687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2207ca9d-9c08-4e89-b93e-98628cf4247d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/eclipse-workspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Class17/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Class17/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Class18/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Class18/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Class19/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Class19/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/QasimJava/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/QasimJava/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/QasimJava/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Wardak/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Wardak/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Wardak/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.navigator.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.urischeme.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/ArithmeticOperator.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/ArrayRecap.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/ArraysFromScanner.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Assignment01.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Assignment02.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Employee.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/EmployeesTester.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Garage.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/GradeIfNotPrint.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Main.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Student.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Task02 (1).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Task02.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Task07.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Task08.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Task09.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Task3.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Test.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/m1.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/139370895.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1417628296.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2135527705.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2565979166.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3836662738.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/indexNamesMap.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/QasimJava/2020/11/45/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/QasimJava/2020/11/45/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/QasimJava/2020/11/46/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/QasimJava/2020/11/46/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Wardak/2020/11/45/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Wardak/2020/11/45/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Wardak/2020/11/46/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Wardak/2020/11/46/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.0.20200318-1040.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/ConfigData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/Drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/Drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/QasimJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class12AndGroupAssignment/Assignment01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class12AndGroupAssignment/Assignment02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class12AndGroupAssignment/Assignment03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class12AndGroupAssignment/Assignment04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class12AndGroupAssignment/Assignment05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class12AndGroupAssignment/Assignment06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class12AndGroupAssignment/Assignment07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class12AndGroupAssignment/Assignment08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class12AndGroupAssignment/Assignment09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class12AndGroupAssignment/ForVsEnhancedFor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class13/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class13/BankApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class13/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class13/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class13/DogPerformance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class13/Garage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class13/Laptop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class13/dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class14/ConcatMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class14/ContainsMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class14/EndsWithMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class14/EqualsIgnoreCaseMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class14/EqualsMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class14/IsEmpty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class14/Length.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class14/StartWithMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class14/StringMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class14/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class14/ToLowerCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class14/ToUpperCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class14/TrimMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class15/CharAtMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class15/IndexOf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class15/Replace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class15/ReplaceAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class15/Split.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class15/StringBuilderClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class15/SubString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class15/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class15/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class15/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class15/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class15/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Task03Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Task04Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Task04group.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Task05Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Task06Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Task07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Task08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/Task09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/VoidMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/VoidMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/createEmail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/getGrade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class16/primeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class17/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class17/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class17/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class17/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class17/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class17/Student1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class17/Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class17/Task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class17/Task3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class17/Variables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class18/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class18/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class18/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class18/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class18/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class18/Recap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/Employees.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/EmployeesTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/RecapTask1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/RecapTask1Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/RecapTask2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/RecapTask2Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/RecapTask3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/Task2Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/Task2StudentTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/Task3Constructors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/Task4StaicCons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/Task4StaicConsTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/Class19/Tasks1Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class01/DataTypesAndVariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class01/DateTypesAndVariables2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class01/FirstProgram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class01/PrintlnVsPrint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class01/SecondProgram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class01/SyntaxProgramming.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class02/ArithmeticOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class02/ArithmeticPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class02/StringExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class02/StringPractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class02/VariableDeclaration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class02/VariableValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class02/Variables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class03/AdditionVsConcatation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class03/CompoundOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class03/DoubleComparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class03/Excercise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class03/IfElseBlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class03/IfStatamentBoolean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class03/IfStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class03/PrimitivCasting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class03/RelationalAndEqualityOperatiors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class03/Temprature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class04/Exercise01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class04/Exercise02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class04/Exercise03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class04/IfElseIF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class04/NestedIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class04/Review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class04/ScanerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class04/ScannerDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class04/SequenceImportant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/HW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/HW003.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/HW003NestedIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/HW02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/HW04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/HowTOEqual.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/IfWithNoBraces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/LogicalOR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/LogicalOperatorsAndNestedIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/Recap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class05/Task07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class06/CalculatorContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class06/HW01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class06/HW02Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class06/HWCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class06/NotOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class06/NotOperator02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class06/SwitchCaseIntro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class06/SwitchDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class06/SwitchMonths.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class06/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class06/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class07/IncrementAndDecrement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class07/InstructorCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class07/Recap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class07/ScannerWithLoops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class07/Switchif.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class07/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class07/WhileDoAndWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class07/WhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class07/WhileLotterry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class07/WhileMoreExamples.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class07/WhileSyntax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class07/WhileVsDowWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/BreakAndContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/ContinueKeyword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/DecrementMinusOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/DoubleOutput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/ForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/InstructorTaskCodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/NestedLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/Recap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/RecapDoWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/ScannerForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/Task02Scanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class08/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class09/Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class09/Clock01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class09/Clock02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class09/MultiNums.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class09/NumPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class09/Odeometer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class09/PrintingPatterns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class09/Recap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class10/AllValuesFromArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class10/ArrayIntor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class10/ArraysAnotherWay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class10/ArraysFromScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class10/HW01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class10/HW02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class10/HW03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class10/HW04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class10/LoopsRecap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class10/MoreArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class10/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class10/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class10/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class10/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class11/AllValuseFromTwoDArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class11/Creating2Darray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class11/GroupTask07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class11/GroupTask09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class11/LargestNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class11/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class11/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/bin/com/syntax/class11/TwoDArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class12AndGroupAssignment/Assignment01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class12AndGroupAssignment/Assignment02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class12AndGroupAssignment/Assignment03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class12AndGroupAssignment/Assignment04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class12AndGroupAssignment/Assignment05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class12AndGroupAssignment/Assignment06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class12AndGroupAssignment/Assignment07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class12AndGroupAssignment/Assignment08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class12AndGroupAssignment/Assignment09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class12AndGroupAssignment/ForVsEnhancedFor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class13/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class13/BankApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class13/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class13/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class13/DogPerformance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class13/Garage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class13/Laptop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class13/dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class14/ConcatMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class14/ContainsMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class14/EndsWithMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class14/EqualsIgnoreCaseMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class14/EqualsMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class14/IsEmpty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class14/Length.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class14/StartWithMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class14/StringMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class14/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class14/ToLowerCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class14/ToUpperCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class14/TrimMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class15/CharAtMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class15/IndexOf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class15/Replace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class15/ReplaceAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class15/Split.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class15/StringBuilderClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class15/SubString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class15/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class15/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class15/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class15/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class15/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class15/returnMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class15/reverseMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Task03Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Task04Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Task04group.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Task05Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Task06Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Task07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Task08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/Task09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/VoidMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/VoidMethodPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/VoidMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/createEmail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/getGrade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class16/primeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class17/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class17/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class17/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class17/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class17/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class17/Student1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class17/Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class17/Task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class17/Task3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class17/Variables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class18/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class18/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class18/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class18/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class18/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class18/Recap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/Employees.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/EmployeesTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/RecapTask1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/RecapTask1Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/RecapTask2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/RecapTask2Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/RecapTask3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/Task2Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/Task2StudentTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/Task3Constructors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/Task4StaicCons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/Task4StaicConsTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class19/Tasks1Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class20/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class20/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class20/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class20/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class20/ParentChildTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class20/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class20/Task3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class20/Task3Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class20/Task4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class20/Task5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/ChemTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/ClassA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/ClassBTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/Classb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/Davit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/Father.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/GrandFather.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/GrandParents.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/MathTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/MoneerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/ParentClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/SuperKeyword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class21/TeacherTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class22/Addition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class22/CircleClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class22/MethodOverloading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class22/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class22/ShapeClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class22/UserClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class22/UserInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/BOA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/Chase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/ClassTask1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/ClassTask2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/Danilo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/DaniloFamilyTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/DaniloParents.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/InterviewQuestions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/InterviewQuestions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/Jelena.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/Milos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/ObjectClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/OverridingExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/PrevClassTask1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/PrevClassTask2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/PrevClassTask3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class23/PrevClassTask4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class24/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class24/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class24/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class24/Chow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class24/Cockapoo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class24/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class24/DogTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class24/GrandParent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class24/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class24/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class24/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class24/PoorChild.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class24/PracticeQuestion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class24/VarArgs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class25/FinalKeywordDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class25/FinalMethodChildClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class25/FinalMethodClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class25/FinalParentClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class25/NaughtyChild.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class25/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class26/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class26/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class26/ComputerTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class26/HP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class26/Iphone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class26/IphoneChild.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class26/Lenovo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class26/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class26/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class26/Samsung.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class26/SmartMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class27/CallFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class27/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class27/File.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class27/Iphone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class27/JavaFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class27/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class27/PdfFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class27/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class27/PhoneTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class27/Samsung.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class27/Tesla.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class27/Toyota.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class27/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class27/VehicleTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class27/WordFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class28/ChromeDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class28/FirefoxDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class28/MyInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class28/SeleniumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class28/WebDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class28/WebDriverTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class29/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class29/GUIAppPart2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class29/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class29/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class29/PayFee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class29/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class29/PersonTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class29/PrintInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/Class29/StudentNew.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject1/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject1/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject1/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject2/Marks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject2/StudentA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject2/StudentB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject3/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject3/Sedan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject3/Truck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject4/Registration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject5/ChromeDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject5/FirefoxDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject5/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject5/RemoteWebDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject5/SafariDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject5/TakesScreenShot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/GroupProject5/WebDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class01/DataTypesAndVariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class01/DateTypesAndVariables2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class01/FirstProgram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class01/PrintlnVsPrint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class01/SecondProgram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class01/SyntaxProgramming.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class02/ArithmeticOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class02/ArithmeticPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class02/StringExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class02/StringPractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class02/VariableDeclaration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class02/VariableValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class02/Variables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class03/AdditionVsConcatation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class03/CompoundOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class03/DoubleComparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class03/Excercise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class03/IfElseBlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class03/IfStatamentBoolean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class03/IfStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class03/PrimitivCasting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class03/RelationalAndEqualityOperatiors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class03/Temprature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class04/Exercise01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class04/Exercise02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class04/Exercise03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class04/IfElseIF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class04/NestedIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class04/Review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class04/ScanerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class04/ScannerDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class04/SequenceImportant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/HW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/HW003.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/HW003NestedIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/HW02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/HW04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/HowTOEqual.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/IfWithNoBraces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/LogicalOR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/LogicalOperatorsAndNestedIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/Recap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class05/Task07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class06/CalculatorContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class06/HW01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class06/HW02Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class06/HWCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class06/NotOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class06/NotOperator02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class06/SwitchCaseIntro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class06/SwitchDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class06/SwitchMonths.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class06/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class06/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class07/IncrementAndDecrement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class07/InstructorCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class07/Recap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class07/ScannerWithLoops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class07/Switchif.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class07/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class07/WhileDoAndWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class07/WhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class07/WhileLotterry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class07/WhileMoreExamples.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class07/WhileSyntax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class07/WhileVsDowWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/BreakAndContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/ContinueKeyword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/DecrementMinusOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/DoubleOutput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/ForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/InstructorTaskCodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/NestedLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/Recap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/RecapDoWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/ScannerForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/Task02Scanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class08/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class09/Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class09/Clock01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class09/Clock02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class09/MultiNums.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class09/NumPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class09/Odeometer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class09/PrintingPatterns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class09/Recap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class10/AllValuesFromArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class10/ArrayIntor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class10/ArraysAnotherWay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class10/ArraysFromScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class10/HW01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class10/HW02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class10/HW03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class10/HW04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class10/LoopsRecap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class10/MoreArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class10/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class10/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class10/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class10/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class11/AllValuseFromTwoDArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class11/Creating2Darray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class11/GroupTask07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class11/GroupTask09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class11/LargestNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class11/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class11/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/out/production/QasimJava/com/syntax/class11/TwoDArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class12AndGroupAssignment/Assignment01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class12AndGroupAssignment/Assignment02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class12AndGroupAssignment/Assignment03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class12AndGroupAssignment/Assignment04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class12AndGroupAssignment/Assignment05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class12AndGroupAssignment/Assignment06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class12AndGroupAssignment/Assignment07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class12AndGroupAssignment/Assignment08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class12AndGroupAssignment/Assignment09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class12AndGroupAssignment/ForVsEnhancedFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class13/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class13/BankApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class13/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class13/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class13/DogPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class13/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class13/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class13/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class14/ConcatMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class14/ContainsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class14/EndsWithMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class14/EqualsIgnoreCaseMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class14/EqualsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class14/IsEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class14/Length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class14/StartWithMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class14/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class14/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class14/ToLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class14/ToUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class14/TrimMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class15/CharAtMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class15/IndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class15/Replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class15/ReplaceAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class15/Split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class15/StringBuilderClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class15/SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class15/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class15/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class15/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class15/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class15/Task05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class15/returnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class15/reverseMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Task03Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Task04Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Task04group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Task05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Task05Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Task06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Task06Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Task07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Task08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/Task09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/VoidMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/VoidMethodPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class16/VoidMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class17/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class17/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class17/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class17/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class17/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class17/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class17/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class17/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class17/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class18/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class18/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class18/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class18/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class18/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class18/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/Employees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/EmployeesTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/RecapTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/RecapTask1Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/RecapTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/RecapTask2Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/RecapTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/Task2Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/Task2StudentTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/Task3Constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/Task4StaicCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/Task4StaicConsTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class19/Tasks1Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class20/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class20/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class20/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class20/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class20/ParentChildTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class20/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class20/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class20/Task3Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class20/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class20/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/ChemTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/ClassBTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/Classb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/Davit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/GrandFather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/GrandParents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/MathTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/MoneerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/ParentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class21/TeacherTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class22/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class22/CircleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class22/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class22/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class22/ShapeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class22/UserClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class22/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class23/ClassTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class23/ClassTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class23/Danilo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class23/DaniloFamilyTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class23/DaniloParents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class23/InterviewQuestions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class23/InterviewQuestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class23/Jelena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class23/Milos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class23/ObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class23/OverridingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class23/PrevClassTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class23/PrevClassTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class23/PrevClassTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class23/PrevClassTask4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class24/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class24/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class24/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class24/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class24/PracticeQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class24/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class25/FinalKeywordDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class25/FinalMethodChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class25/FinalMethodClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class25/FinalParentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class25/NaughtyChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class25/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class26/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class26/ComputerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class26/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class26/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class27/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class27/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class27/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class27/PhoneTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class27/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class27/VehicleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class28/ChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class28/ChildClassTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class28/ChromeDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class28/FirefoxDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class28/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class28/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class28/MyInterface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class28/MyInterface3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class28/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class28/SeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class28/WebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class28/WebDriverTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class29/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class29/GUIAppPart2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class29/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class29/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class29/PayFee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class29/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class29/PersonTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class29/PrintInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class29/StudentNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/ArrayListAddAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/ArrayListClearAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/ArrayListContainsAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/ArrayListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/ArrayListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/ArrayListRetainAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/ArraysDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/ArraysIssues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/ArraysListRemoveAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/ArraysListRetainAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/BoxingUnboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/Homework1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/Homework2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class30/WrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/ArrayClassDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/ArrayClassDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/ArrayListIteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/HashsetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/IteratorDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/IteratorDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/IteratorDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/IteratorDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/LinkedHashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/LinkedListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/MultiDimensionArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class31/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/CreditCardTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/DifferenceBetweenListAndSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/FlowerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/InsuranceTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/MapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/MapDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/MapDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/MapDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/SetsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class32/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/Homework02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/Homework03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/Homework05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/Homework06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/Homework07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/Homework08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/MapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/MapDemo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/MapDemo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/MapDemo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/MapDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/MapDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/MapDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/MapDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/MapDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/MapDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/MapDemo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/MapDemo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class33/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class34/Credentials.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class34/Credentials1.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class34/FileHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class34/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class34/OutPutFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class35/ExcelFileHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class35/ExcelFileHandlingDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class35/ExcelFileHandlingDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class35/ExcelFileHandlingDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class35/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class35/PropertiesFileHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class35/Test.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class35/quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/CalculationsTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/DoCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/ExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/ExceptionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/PersonInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/ReadWriteExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/Salary.XLSX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/Test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/Test2.XLSX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/TestData2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/WhyTryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class36/WritingExcelData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class37/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class37/BankAccountTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class37/Book1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class37/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class37/ExceptionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class37/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class37/InsufficientBalanceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class37/MixedIndividuals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class37/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class37/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class37/TestData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/Class37/configurations.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject2/Marks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject2/StudentA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject2/StudentB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject3/Sedan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject3/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject4/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject5/ChromeDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject5/FirefoxDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject5/RemoteWebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject5/SafariDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject5/TakesScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/GroupProject5/WebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass01/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass01/ScannerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass01/StringScan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass01/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass02/Assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass02/Debugging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass02/IfCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass02/IfElseConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass02/Mahmut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass02/NestedIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass02/Qasim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass02/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass02/temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass03/LogicalAnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass03/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass03/NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass03/NotOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass03/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass04/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass04/BreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass04/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass04/ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass04/NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass04/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass04/SimpleWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass04/WhileLoopsWithSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass06/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass06/ClassesAndObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass06/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass06/Librarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass06/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass06/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass06/Student5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass07/GUIApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass07/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass07/StringClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass07/StringClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass07/StringPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass08/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass08/CalculatorTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass08/CalculatorTester2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass08/MethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass08/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass08/MethodsExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass08/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass10/InstanceVarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass10/InstanceVarDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass10/LocalVarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass10/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass10/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass10/StaticVarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass10/StaticVarDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass10/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass11/Constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass11/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass11/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass11/PersonTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass12/Employee1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass12/EmployeeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass12/EmployerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass12/PolyTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass13/BaseEmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass13/Driveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass13/EmployeeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass13/LambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass13/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass13/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass13/ShapeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass13/SoundAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass13/SoundAnimalTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass14/ApplicationsOfSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass14/CollectionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass14/CollectionsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass14/CollectionsDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass14/ListsAndSetsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass14/MapsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass14/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass14/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass15/ExcelFilesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass15/MapsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass15/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass15/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass15/PropertiesFilesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass15/Test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass15/Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass15/Test4.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/ReviewClass15/TextFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class01/DataTypesAndVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class01/DateTypesAndVariables2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class01/FirstProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class01/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class01/PrintlnVsPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class01/SecondProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class01/SyntaxProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class02/ArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class02/ArithmeticPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class02/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class02/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class02/StringPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class02/VariableDeclaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class02/VariableValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class02/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class03/AdditionVsConcatation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class03/CompoundOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class03/DoubleComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class03/Excercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class03/IfElseBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class03/IfStatamentBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class03/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class03/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class03/PrimitivCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class03/RelationalAndEqualityOperatiors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class03/Temprature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class04/Exercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class04/Exercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class04/Exercise03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class04/IfElseIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class04/NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class04/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class04/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class04/ScanerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class04/ScannerDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class04/SequenceImportant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/HW003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/HW003NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/HW02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/HW04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/HowTOEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/IfWithNoBraces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/LogicalOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/LogicalOperatorsAndNestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/Task05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/Task06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class05/Task07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class06/CalculatorContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class06/HW01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class06/HW02Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class06/HWCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class06/NotOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class06/NotOperator02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class06/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class06/SwitchCaseIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class06/SwitchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class06/SwitchMonths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class06/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class06/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class07/IncrementAndDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class07/InstructorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class07/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class07/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class07/ScannerWithLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class07/Switchif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class07/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class07/WhileDoAndWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class07/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class07/WhileLotterry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class07/WhileMoreExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class07/WhileSyntax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class07/WhileVsDowWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/BreakAndContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/ContinueKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/DecrementMinusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/DoubleOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/InstructorTaskCodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/RecapDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/ScannerForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/Task02Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class08/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class09/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class09/Clock01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class09/Clock02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class09/MultiNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class09/NumPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class09/Odeometer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class09/PrintingPatterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class09/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class10/AllValuesFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class10/ArrayIntor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class10/ArraysAnotherWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class10/ArraysFromScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class10/HW01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class10/HW02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class10/HW03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class10/HW04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class10/LoopsRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class10/MoreArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class10/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class10/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class10/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class10/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class10/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class11/AllValuseFromTwoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class11/Creating2Darray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class11/GroupTask07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class11/GroupTask09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class11/LargestNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class11/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class11/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class11/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/src/com/syntax/class11/TwoDArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QasimJava/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/out/production/Selenium/Class01/LaunchBrowser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/out/production/Selenium/Class01/NavigateMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/out/production/Selenium/Class01/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/out/production/Selenium/Class01/Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/out/production/Selenium/Class02/LocatingElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/out/production/Selenium/Class02/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/out/production/Selenium/Class02/Recap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/out/production/Selenium/Class02/Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/screenshots/HRMS/adminLogin.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/screenshots/HRMS/adminLoginPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/screenshots/HRMS/dashboard.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class01/LaunchBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class01/NavigateMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class01/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class01/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class02/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class02/Homework02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class02/LocatingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class02/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class02/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class02/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class03/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class03/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class03/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class03/XPathDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class04/ClearCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class04/CssSelectorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class04/ElementCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class04/GetAllLinksFromEbay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class04/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class04/Homework02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class04/Homework03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class04/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class04/Xpath Locators" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class05/CheckBoxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class05/HandlingAmazonDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class05/HandlingDDWithIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class05/HandlingDropdowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class05/HandlingMultiSelectDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class05/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class05/Homework02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class05/Homework03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class05/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class06/AuthenticationAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class06/FrameTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class06/HandlingAlerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class06/HandlingFrames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class06/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class06/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class07/AdvancedWindowHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class07/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class07/Homework02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class07/ImplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class07/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class07/SingleWindowHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class08/ExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class08/FluentWaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class08/HandlingDynamicWebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class08/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class08/JSExecutorDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class08/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class08/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class08/WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class09/CalendarHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class09/HandlingPagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class09/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class09/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class09/WebTablesWithPagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class10/ActionsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class10/CalendarHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class10/DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class10/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class10/TakingScreensshots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class10/WorkingWithKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class11/FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class11/JSExectutorDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class11/JSExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Class11/RightAndDobleClickActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass01/LinkTextAndPartialLinkText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass01/NavigateMethodsRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass01/PageObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass01/SeleniumConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass01/SeleniumRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass01/TagNameRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass01/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass01/XPathKayak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass01/XpathRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass02/CheckBoxRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass02/CssSelectorRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass02/RadioButtonRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass02/SelectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass02/XpathRecapContinued.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass03/AlertReviewe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass03/HandlingFrames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/ReviewClass04/WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Test/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/TestBase/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/pages/LoginPageWithFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/pages/LoginTestWithPageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/utils/CommonMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/utils/ConfigsReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/utils/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AllTestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AllTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listeners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegressionTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class01/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class01/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class01/PreAndPostConditionAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class01/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class01/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class01/TestNGIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class02/DependOnDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class02/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class02/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class02/SoftAssertionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class03/DataProviderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class03/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class03/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class03/SoftAssertionModified.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class04/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class04/Listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/Class04/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/utils/CommonMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/utils/ConfigsReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestNg/utils/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/Regression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/Smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/src/test/java/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/src/test/java/com/hrms/pages/AddEmployeePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/src/test/java/com/hrms/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/src/test/java/com/hrms/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/src/test/java/com/hrms/testcases/AddEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/src/test/java/com/hrms/testcases/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/src/test/java/com/hrms/utils/CommonMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/src/test/java/com/hrms/utils/ConfigsReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/src/test/java/com/hrms/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/src/test/java/com/hrms/utils/ExcelReading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/src/test/resources/configs/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgFramework/src/test/resources/testdata/Test.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/bin/day1Practice/AndOR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/bin/day1Practice/BooleanScannerAndNestedIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/bin/day1Practice/GradeIfNotPrint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/bin/day1Practice/InstructorSwitch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/bin/day1Practice/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/bin/day1Practice/Review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/bin/day1Practice/Review01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/bin/day1Practice/ScannerWithForDayOfWeek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/bin/day1Practice/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/bin/day1Practice/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/src/day1Practice/AndOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/src/day1Practice/BooleanScannerAndNestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/src/day1Practice/GradeIfNotPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/src/day1Practice/InstructorSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/src/day1Practice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/src/day1Practice/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/src/day1Practice/Review01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/src/day1Practice/ScannerWithForDayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/src/day1Practice/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wardak/src/day1Practice/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1m8HfwaZRY9IZ95qcpyeCGrs7oA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/TestNg" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Qasim\eclipse-workspace\TestNg\src\TestNg" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Qasim\eclipse-workspace\TestNg\Drivers" />
+      <recent name="C:\Users\Qasim\eclipse-workspace\TestNg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.HW (1)">
+    <configuration name="C:/Users/Qasim/eclipse-workspace/TestNg/Smoke.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNg" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Smoke.xml" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Qasim/eclipse-workspace/TestNg/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNg" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNg" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNg.Class04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestNg.Class04" />
+      <option name="MAIN_CLASS_NAME" value="TestNg.Class04.HW" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNg" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNg.Class02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestNg.Class02" />
+      <option name="MAIN_CLASS_NAME" value="TestNg.Class02.HW" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNg" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNg.Class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestNg.Class01" />
+      <option name="MAIN_CLASS_NAME" value="TestNg.Class01.Homework01" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HW (1)" />
+        <item itemvalue="TestNG.HW" />
+        <item itemvalue="TestNG.C:/Users/Qasim/eclipse-workspace/TestNg/Smoke.xml" />
+        <item itemvalue="TestNG.Homework01" />
+        <item itemvalue="TestNG.C:/Users/Qasim/eclipse-workspace/TestNg/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2207ca9d-9c08-4e89-b93e-98628cf4247d" name="Default Changelist" comment="" />
+      <created>1608868407612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608868407612</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Plugins" timestamp="1611013824678">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Plugins/0.0.1280.680@0.0.1280.680" timestamp="1611013824678" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608868906144">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1608868906144" />
+    <state x="471" y="51" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1608869605539">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="51" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1280.680@0.0.1280.680" timestamp="1608869605539" />
+    <state x="348" y="81" key="FileChooserDialogImpl" timestamp="1609880110942">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1609880110942" />
+    <state width="1237" height="202" key="GridCell.Tab.0.bottom" timestamp="1610946950630">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610946950630" />
+    <state width="1237" height="202" key="GridCell.Tab.0.center" timestamp="1610946950630">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1610946950630" />
+    <state width="1237" height="202" key="GridCell.Tab.0.left" timestamp="1610946950630">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1610946950630" />
+    <state width="1237" height="202" key="GridCell.Tab.0.right" timestamp="1610946950630">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1610946950630" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1609880113896">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1609880113896" />
+    <state x="91" y="0" key="new project wizard" timestamp="1610208415740">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1610208415740" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1611013761069">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1611013761069" />
+  </component>
+</project>
